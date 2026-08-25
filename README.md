@@ -28,8 +28,7 @@ Databricks Bronze
 Databricks Silver / SCD Type 2
     ↓
 Gold
-    ↓
-Tableau
+
 
 ## Technologies
 
@@ -43,7 +42,6 @@ Tableau
 - Delta Lake
 - SQL
 - Docker
-- Tableau
 
 ## Pipeline Components
 
