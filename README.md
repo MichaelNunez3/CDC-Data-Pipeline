@@ -13,21 +13,7 @@ The pipeline maintains historical customer records using Slowly Changing Dimensi
 
 ## Architecture
 
-SQL Server
-    ↓
-SQL Server CDC
-    ↓
-Debezium
-    ↓
-Apache Kafka
-    ↓
-Python CDC Bridge
-    ↓
-Databricks Bronze
-    ↓
-Databricks Silver / SCD Type 2
-    ↓
-Gold
+<img width="346" height="347" alt="image" src="https://github.com/user-attachments/assets/893925f7-d659-472e-9608-d401ba9f364b" />
 
 
 ## Technologies
